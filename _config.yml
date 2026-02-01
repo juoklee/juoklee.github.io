@@ -1,0 +1,35 @@
+# Site Settings
+title: "이주옥의 기술블로그"
+url: "https://juoklee.github.io"
+baseurl: ""
+repository: "juoklee/juoklee.github.io"
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+# Author
+author:
+  name: "이주옥"
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      share: true
