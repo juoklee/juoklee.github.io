@@ -1,5 +1,8 @@
 # Site Settings
 title: "이주옥의 기술블로그"
+
+include:
+  - _pages
 url: "https://juoklee.github.io"
 baseurl: ""
 repository: "juoklee/juoklee.github.io"
