@@ -2,7 +2,7 @@
 title: "TDD 없이 코드 짜는 것은 눈 감고 운전하는 것과 같다"
 date: 2026-02-06
 categories:
-  - 개발
+  - Development
 tags:
   - TDD
   - Spring Boot
