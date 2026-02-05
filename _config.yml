@@ -1,5 +1,6 @@
 # Site Settings
 title: "이주옥의 기술블로그"
+future: true
 
 include:
   - _pages
